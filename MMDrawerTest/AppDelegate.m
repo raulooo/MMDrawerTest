@@ -41,7 +41,7 @@
 //        sideDrawerViewController 
         [sideDrawerViewController.view setAlpha:percentVisible];
     }];
-    //olakase
+    //olakase  
     return YES;
 }
 							
