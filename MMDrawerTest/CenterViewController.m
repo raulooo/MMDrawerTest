@@ -28,7 +28,7 @@
     [self.navigationItem setLeftBarButtonItem:leftDrawerButton animated:YES];
     
     [self.mm_drawerController setDrawerVisualStateBlock:[MMDrawerVisualState slideAndScaleVisualStateBlock]];
-//    s
+//    olakase 33 
     
 }
 
